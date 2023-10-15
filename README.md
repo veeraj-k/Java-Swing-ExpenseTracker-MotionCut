@@ -14,7 +14,7 @@ Key features:
 * Data Persistence: Ensure that the entered expenses are saved in locally hosted mysql database.
 * Input Validation:  Handle input validation to ensure that users enter valid expense details.
 
-  ## Screenshots
+## Screenshots
   
 [ScreenShot 1](https://github.com/veeraj-k/Java-Swing-ExpenseTracker-MotionCut/tree/main/screenshots/1.png)
 
