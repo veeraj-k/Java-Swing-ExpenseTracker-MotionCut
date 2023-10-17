@@ -11,7 +11,7 @@ Key features:
 * View Expenses: Users can view a list of their recorded expenses, including details such as the description, amount etc.
 * Expense Summaries: Summarizes the expenses for a given month or year.
 * User-Friendly Interface:A user-friendly interface that prompts users to input their expenses and displays summaries clearly.
-* Data Persistence: Ensure that the entered expenses are saved in locally hosted mysql database.
+* Data Persistence: Ensure that the entered expenses are saved in the sqlite database.
 * Input Validation:  Handle input validation to ensure that users enter valid expense details.
 
 ## Screenshots
@@ -34,11 +34,16 @@ Key features:
 
 Source Code: [/src/MainPage.java](https://github.com/veeraj-k/Java-Swing-ExpenseTracker-MotionCut/blob/main/src/MainPage.java)
 
+## Running the Application
+
+* Add the Jar files present in /lib to your project
+* Run the application
+* Data will be stored in expenses.db
 
 ## Utilities Used
 
 * Java
 * Swing
 * Flatlaf
-* MySQL -JDBC
+* SQLite -JDBC
 * IntelliJ - IDEA
